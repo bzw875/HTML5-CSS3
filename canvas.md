@@ -1,12 +1,6 @@
-```
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>canvas绘图</title>
-</head>
+### canvas绘制简单图形
 
-<body>
+```
 <canvas id="canvas" width="300" height="300"></canvas>
 <script>
 var canvas = document.getElementById("canvas");
@@ -27,6 +21,9 @@ ctx.strokeStyle = 'rgba(255, 127, 0, 0.5)';
 // 绘制当前或已经存在的路径的方法
 ctx.stroke();
 </script>
-</body>
-</html>
 ```
+
+效果图
+![Alt text](images/canvas1.png)
+
+
