@@ -1,4 +1,8 @@
-### canvas绘制简单图形
+
+
+### canvas
+
+&lt;canva&gt;新增的元素，可以用来javascript绘制图形，多用于游戏方面，下面就用来绘制简单图形吧.
 
 ```
 <canvas id="canvas" width="300" height="300"></canvas>
